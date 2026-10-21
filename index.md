@@ -17,5 +17,6 @@ YAML metadata.
 
 ## Blog
 
+- 2026-10-21: [How the page sequence was born](/pagesequence/blog/2026-10-21-how-the-page-sequence-was-born.html)
 - 2026-10-21: [Plus or pipe: joining the labels on one page](/pagesequence/blog/2026-10-21-plus-or-pipe.html)
 - 2026-10-20: [Is there a standard for page labels?](/pagesequence/blog/2026-10-20-page-label-notations.html)
